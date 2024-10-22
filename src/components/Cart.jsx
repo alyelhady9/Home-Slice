@@ -34,7 +34,7 @@ return (
                     
                     {
                         props.cartItems.length === 0? (
-                            <div className='empty-cart'>Your Cart Is Empthy!</div>
+                            <div className='empty-cart'>Your Cart Is Empty!</div>
                         ) : (
 
                         
